@@ -1,9 +1,9 @@
 # VATanalyst
 
-##Task:
+## Task:
 Implement an application in Java that will print out three EU countries with the lowest
 and three EU countries with the highest standard VAT rate as of today within the EU.
-##Input:
+## Input:
 `http://jsonvat.com/` (API)
 Suggestions: Keep it clean and simple, but with a reasonable design allowing for future extendibility.
 Use any library of your choice, verify the program correctness.
